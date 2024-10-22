@@ -2,7 +2,7 @@
 
 **`About me:`**
 
-I am a Python backend developer with 2 years of experience. I have expertise in building, deploying and maintaining backend systems. I'm also experienced in designing APIs and managing server-side logic for web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a Python backend developer with 3 years of experience. I have expertise in building, deploying and maintaining backend systems. I'm also experienced in designing APIs and managing server-side logic for web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
