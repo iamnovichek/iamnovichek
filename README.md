@@ -2,7 +2,7 @@
 
 **`About me:`**
 
-I am a Python backend developer with 3 years of experience. I have expertise in building, deploying and maintaining backend systems. I'm also experienced in designing APIs and managing server-side logic for web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I am a Python backend developer with 4 years of experience. I have expertise in building, deploying and maintaining backend systems. I'm also experienced in designing APIs and managing server-side logic for web applications. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ---
 
@@ -40,7 +40,8 @@ I am a Python backend developer with 3 years of experience. I have expertise in 
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+<img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <br><br><br>
