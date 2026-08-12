@@ -50,4 +50,4 @@ I am a Python backend developer with 5 years of experience. I have expertise in 
 
 ### 📊Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnovichek&show_icons=true&theme=merko)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=iamnovichek)](https://github.com/stats-organization/github-stats-extended)
